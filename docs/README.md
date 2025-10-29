@@ -53,5 +53,3 @@ A simple SwiftUI Pokédex that fetches data from PokeAPI, supports infinite scro
 - Details cache: per Pokémon detail JSON cached on first successful load.
 - Favorites: stored as a `Set<String>` of Pokémon IDs in `UserDefaults` with ability to clear all.
 
-## License
-No license file provided yet.
